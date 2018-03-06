@@ -3626,7 +3626,7 @@ function render() {
 
 window.onload = function () {
   var script = document.createElement("script");
-  script.src = "http://ciwi.applinzi.com/getrmd";
+  script.src = "https://ciwi.applinzi.com/getrmd";
   document.body.insertBefore(script, document.body.firstChild);
 };
 
